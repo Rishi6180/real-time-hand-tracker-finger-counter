@@ -13,5 +13,7 @@ A real-time hand-tracking computer vision application built with OpenCV (`cv2`) 
 
 1. Clone this repository
    ```bash
-   git clone [httpsgithub.comYOUR_USERNAMEhand-gesture-counter.git](httpsgithub.comYOUR_USERNAMEhand-gesture-counter.git)
+   git clone [httpsgithub.com/Rishi6180/hand-gesture-counter.git](httpsgithub.com/Rishi6180/hand-gesture-counter.git)
    cd hand-gesture-counter
+
+2. Install dependencies: pip install -r requirements.txt
